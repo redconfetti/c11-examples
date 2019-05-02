@@ -50,3 +50,7 @@ Tasks:
 
 Eventually I want to implement unit testing of C Code with
 [GNU Autounit](http://autounit.tigris.org/) or [C Unit](http://cunit.sourceforge.net/)
+
+## Reference
+
+See [Notes](docs/notes.md)
