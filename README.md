@@ -55,4 +55,5 @@ Eventually I want to implement unit testing of C Code with
 
 ## Reference
 
-See [Notes](docs/notes.md)
+* [Notes](docs/notes.md)
+* [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
