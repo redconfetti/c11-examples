@@ -53,6 +53,22 @@ Tasks:
 Eventually I want to implement unit testing of C Code with
 [GNU Auto-unit](http://autounit.tigris.org/) or [C Unit](http://cunit.sourceforge.net/)
 
+## Page Reference
+
+* Listing 2-1 - Page 24
+* Listing 2-2 - Page 30
+* Listing 3-1 - Page 42
+* Listing 3-2 - Page 51
+* Listing 4-1 - Page 63
+* Listing 4-2 - Page 66
+* Listing 4-3 - Page 73
+* Listing 4-4 - Page 75
+* Listing 4-5 - Page 78
+* Listing 4-6 - Page 83
+* Listing 5-1 - Page 92
+* Listing 5-2 - Page 101
+* Listing 5-3 - Page 104
+
 ## Reference
 
 * [Notes](docs/notes.md)

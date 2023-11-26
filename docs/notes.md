@@ -1,8 +1,8 @@
 # Notes
 
-# Lesson 3
+## Lesson 3
 
-## Table 3.2 - C's Numeric Data Types
+### Table 3.2 - C's Numeric Data Types
 
 | Type                            | Keyword            | Bytes | Range                                                   |
 | ------------------------------- | ------------------ | ----- | ------------------------------------------------------- |
@@ -19,5 +19,5 @@
 | Single-precision floating-point | float              | 4     | 1.2E-38 to 3.4E38¹                                      |
 | Double-precision floating-point | double             | 8     | 2.2E-308 to 1.8E308²                                    |
 
-Variables are signed by default, but you can include the `signed` keyword when declaring variables.
-
+Variables are signed by default, but you can include the `signed` keyword when
+declaring variables.
